@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d275bed4-e4d3-4001-8236-79c717dd5734" name="Default Changelist" comment="" />
+    <list default="true" id="d275bed4-e4d3-4001-8236-79c717dd5734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FilesInventoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FilesInventoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/FilesInventoryService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/FilesInventoryService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Traits/FilesInventoryTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Traits/FilesInventoryTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -106,8 +116,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../painel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../saoroque" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,6 +159,9 @@
       <workItem from="1582389678033" duration="10338000" />
       <workItem from="1582402025098" duration="26390000" />
       <workItem from="1582457443406" duration="35216000" />
+      <workItem from="1582514687977" duration="4830000" />
+      <workItem from="1582549001973" duration="30619000" />
+      <workItem from="1582653066618" duration="655000" />
     </task>
     <servers />
   </component>
@@ -163,10 +177,10 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="288" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.24.1301.744@65.24.1301.744" timestamp="1582493807066" />
-    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1582511111381">
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1582653134445">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1582511111381" />
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1582653134445" />
     <state width="1255" height="193" key="GridCell.Tab.0.bottom" timestamp="1582401570673">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -191,14 +205,14 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1582389751063" />
-    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582459562278">
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582653068952">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1582459562278" />
-    <state x="65" y="24" width="868" height="744" key="find.popup" timestamp="1582502086081">
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1582653068952" />
+    <state x="65" y="24" width="868" height="744" key="find.popup" timestamp="1582588454925">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="65" y="24" width="868" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1582502086081" />
+    <state x="65" y="24" width="868" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1582588454925" />
     <state x="379" y="29" width="670" height="676" key="search.everywhere.popup" timestamp="1582510798629">
       <screen x="65" y="24" width="1301" height="744" />
     </state>

@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('files', 'FilesController@index')->name('files');
+Route::get('files', 'FilesInventoryController@index')->name('files');
 Route::get('create/file', 'FilesInventoryController@create')->name('create-file');
 
 

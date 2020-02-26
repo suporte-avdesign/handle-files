@@ -24,7 +24,7 @@ class FilesInventoryController extends Controller
      */
     public function index()
     {
-        return 'index';
+        dd('index');
     }
 
     /**
@@ -35,13 +35,11 @@ class FilesInventoryController extends Controller
     public function create()
     {
         $config = $this->filesService->filesDirectories()->etq_inventory;
+        $info = $this->filesService->getInfoFile($config);
         if ($config->copy)
             $this->filesService->makeDirectory($config);
-
-        $info = $this->filesService->getInfoFile($config);
-
-        if ($config->download)
-            return $this->filesService->downloadFile($config, $info);
+        if ($config->read)
+            $this->filesService->readFileInventory($config, $info);
 
         // Criar diretório
     }
